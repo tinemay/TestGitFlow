@@ -6,6 +6,7 @@ public class TestFlow{
 		twoADD(x, y);
 		twoMin(x, y);
 		twoMax(x, y);
+		System.out.println("JoeyChiou");
 	}
 <<<<<<< HEAD
 	statis void twoMin(int x, int y){
