@@ -7,4 +7,10 @@ public class TestFlow{
 		twoMin(x, y);
 		twoMax(x, y);
 	}
+	statis void twoMin(int x, int y){
+		if(x<y)
+			System.out.println("MIN:"+x);
+		else
+			System.out.println("MIN:"+y);
+	}
 }
